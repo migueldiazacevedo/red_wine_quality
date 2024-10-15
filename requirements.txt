@@ -1,0 +1,12 @@
+black
+ipykernel
+ipython
+kaggle
+matplotlib
+matplotlib-inline
+numpy
+pandas
+scipy
+seaborn
+scikit-learn
+statsmodels
